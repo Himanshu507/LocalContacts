@@ -81,8 +81,8 @@ public class Add_Contact extends AppCompatActivity {
             user_name.setFocusable(true);
             return;
         }
-        if (phone.isEmpty() || phone.length() != 10) {
-            phone_no.setError("Enter a valid Number");
+        if (phone.isEmpty()) {
+            phone_no.setError("Enter a Number");
             user_name.setFocusable(true);
             return;
         } else {

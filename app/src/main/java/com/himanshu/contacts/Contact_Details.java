@@ -214,7 +214,7 @@ public class Contact_Details extends AppCompatActivity {
             edit_user_name.setFocusable(true);
             return;
         }
-        if (new_phone_no.isEmpty() || new_phone_no.length() !=10) {
+        if (new_phone_no.isEmpty()) {
             edit_phone_no.setError("Enter a Number");
             edit_phone_no.setFocusable(true);
             return;
