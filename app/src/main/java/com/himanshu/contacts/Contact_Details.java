@@ -372,5 +372,4 @@ public class Contact_Details extends AppCompatActivity {
         startActivityForResult(intent, REQUEST_CODE);
     }
 
-
 }
