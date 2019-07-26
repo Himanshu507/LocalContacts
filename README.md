@@ -6,3 +6,7 @@
   <img src="/app/src/main/res/raw/thirdpart.gif" width="250" heigh="400"/>
 </p>
 
+
+<h3> For Download this APK Checkout this link</h3>
+<h5>https://drive.google.com/open?id=1wdAlbkqyrCpWSTB-uTGQ_PEkdlqmg4l-</h5>
+
